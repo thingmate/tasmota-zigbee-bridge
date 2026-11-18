@@ -2,8 +2,19 @@
   "name": "@thingmate/tasmota-zigbee-bridge",
   "version": "0.1.0",
   "type": "module",
-  "description": "Tasmota Zigbee bridge",
-  "keywords": [],
+  "description": "Drive a Zigbee coordinator from a Tasmota device running Zigbee2Tasmota",
+  "keywords": [
+    "zigbee",
+    "tasmota",
+    "zigbee2tasmota",
+    "zcl",
+    "coordinator",
+    "bridge",
+    "iot",
+    "smart-home",
+    "home-automation",
+    "typescript"
+  ],
   "author": "Valentin Richard",
   "license": "MIT",
   "repository": {
