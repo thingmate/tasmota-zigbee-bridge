@@ -14,7 +14,7 @@ import { numberToHex, uint8ArrayToHex } from '@xstd/hex';
  * - `?` for a cluster-specific server-to-client command.
  *
  * The target device is rendered as an uppercase hex string: a short address
- * (`0x10000` and below) on 2 bytes, a long address on 8 bytes.
+ * (below `0x10000`) on 2 bytes, a long address on 8 bytes.
  * @returns The equivalent `ZbSend` command payload.
  * @see https://tasmota.github.io/docs/Zigbee/#low-level-commands
  */
